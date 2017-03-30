@@ -236,4 +236,4 @@ Please use [Issues](https://github.com/jhabdas/fetch-inject/issues) for bugs and
 
 ## License
 
-MIT License 2017 © Josh Habdas
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jhabdas/fetch-inject/blob/master/LICENSE) file for the full license text.
