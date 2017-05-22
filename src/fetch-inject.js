@@ -39,5 +39,3 @@ const fetchInject = function (inputs, promise) {
     return Promise.all(thenables)
   })
 }
-
-export default fetchInject
