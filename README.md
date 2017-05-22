@@ -1,5 +1,10 @@
 <h1 align="center">Fetch Inject</h1>
 
+This is a fork of fetch-inject in a self-contained dependency.
+Simply instantiate fetch-inject.js and be on your way!
+
+<h1>Original README.md follows.</h1>
+
 <p align="center">
   <strong>A fetching async loader and DOM injection sequencer for high-performance websites.</strong>
 </p>
